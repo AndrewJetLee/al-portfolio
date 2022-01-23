@@ -2271,3 +2271,16 @@ button,
     border-top: 0;
     margin-top: 0;
     padding-top: 0; }
+
+
+
+  #menu ul li{
+    display: flex; 
+    align-items: center;
+
+  }
+
+  #menu ul li i {
+    font-size: 23px;
+    margin-right: 12px;
+  }
